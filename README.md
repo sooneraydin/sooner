@@ -2,7 +2,7 @@
 Config files for my GitHub profile
 
 Hi there 👋
-Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.
+Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2019, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.
 
 Please note that below is the official list of information about Node & Validator:
 
