@@ -20,20 +20,4 @@ Validator mainnet:
 
 Validator testnet:
 
-> Aptos, Sui network, Massa, Okp4, Nulink, Nibiru, Subspace, Meson Network, Althea, Namada, Pryzm
-
-> Pactus
-
-> Babylon
-
-> Kyve
-
-> Minima
-
-> Bitcountry
-
-> Manta
-
-> Quicksilver
-
-> Empower
+> Aptos, Sui network, Newrl, Sei network, Zeeka, Gitopia, Artela, Avail, Elixir, Lumoz, QBlokchain, Ojo, Tangle, Santiment, Voi, İronfish,    Massa, Okp4, Nulink, Nibiru, Subspace, Meson Network, Althea, Namada, Pryzm, Pactus, Babylon, Kyve, Minima, Bitcountry, Manta, Quicksilver, Empowerchain
