@@ -1,4 +1,4 @@
-# sooner
+# Sooner or Later
 Config files for my GitHub profile
 
 Hi there 👋
