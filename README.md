@@ -16,7 +16,7 @@ My Server:
 
 Validator mainnet:
 
-> MASSA Chanin : 
+> MASSA Chain: 
 
 Validator testnet:
 
