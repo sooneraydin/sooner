@@ -16,7 +16,11 @@ My Server:
 
 Validator mainnet:
 
-> MASSA Chain: 
+> MASSA Chain
+> Humanode
+> Pactus
+> Tangle
+
 
 Validator testnet:
 
