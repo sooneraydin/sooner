@@ -21,8 +21,9 @@ Validator mainnet:
 > Pactus,
 > Tangle,
 > Voi,
+> Elixir,
 
 
 Validator testnet:
 
-> Aptos, Althea, Artela, Avail, Ar.io, Airchains, Allora, Airchain rollup, Babylon, Bitcountry, Chasm, Dill, Dria, Dymension, Elixir, Empowerchain, Gitopia, Sui network, Newrl, Sei network, Zeeka, İnitia, İronfish, Koii, Kyve, Lumoz, Liteseed, Massa, Meson Network, Minima, Manta, Madara, Mangata, Mantra, Nubit, Nulink, Nibiru, Namada, , Oro, Over, Ojo, Okp4, Pryzm, Pactus, Pingpong, Rivalz, Risc Zero, Sonaric, QBlokchain, Quicksilver, Santiment, Subspace, Tangle, Tanssi, Viper, Voi.
+> Aptos, Althea, Artela, Avail, Ar.io, Airchains, Allora, Airchain rollup, Babylon, Bitcountry, Chasm, Dill, Dria, Dymension, DymPlayground, Elixir, Empowerchain, Gitopia, Hemi, Sui network, Newrl, Sei network, Zeeka, İnitia, İmpossible, İronfish, Koii, Kyve, Lumoz, Liteseed, Massa, Meson Network, Minima, Manta, Madara, Mangata, Mantra, Nesa, Nexus,  Nubit, Nulink, Nibiru, Nillion, Namada, , Oro, Ora, Over, Ojo, Okp4, Pryzm, Pactus, Pingpong, Rainbow, Rivalz, Risc Zero, Sonaric, QBlokchain, Quicksilver, Santiment, Subspace, Tangle, Tanssi, Vana, Vanasix, Viper, Voi.
