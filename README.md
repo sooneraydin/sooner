@@ -22,7 +22,7 @@ Validator mainnet:
 > Tangle,
 > Voi,
 > Elixir,
-> DYM,
+> Dymension,
 > Flock,
 > Over Protocol,
 > Ario,
@@ -30,12 +30,15 @@ Validator mainnet:
 > Flock,
 > İni,
 > BitBadges
+> Lumera-Network
+> Pipe
+> Atomone
 > 
 
 
 Validator testnet:
 
-> Aptos, Abstract, Althea, Artela, Avail, Ar.io, Airchains, Allora, Airchain rollup, Aztec, Babylon, Blockest, Bitcountry, Cardchain, Chasm, Crowdcontrol, Datagram, Dill, Diode, Dria, Drosera, Dymension, DymPlayground, Elixir, Empowerchain, Fortytwo, Gaia, Gensyn, Gitopia, Grass, Hemi, Newrl, İnitia, İnit, İmpossible, İronfish, Kiichain, Koii, Kyve, Lumoz, Liteseed, Lumera, Massa, Meson Network, Minima, Manta, Madara, Mangata, Mantra, Multiple, Multisync, Nesa, Nexus,  Nubit, Nulink, Nibiru, Nillion, Namada, Network 3, 0g, Oro, Ora, Over, Ojo, Okp4, Pryzm, Pactus, Pell, Pipe, Pingpong, Privia, Rainbow, Rivalz, Risc Zero, Safrochain, Selfchain, Seismic, Sonaric, Soundness, Shardeum, Octra, QBlokchain, Quicksilver, Sei network, Santiment, Subspace, Sui network, Tac, T3rn, Tangle, Tanssi, Titan Network, Vana, Vanasix, Viper, Voi, Zeeka, Zenrock, Warden.
+> Aptos, Abstract, Althea, Artela, Avail, Ar.io, Airchains, Allora, Airchain rollup, Aztec, Babylon, Blockest, Bitcountry, Cardchain, Chasm, Crowdcontrol, Datagram, Dill, Diode, Dria, Drosera, Dymension, DymPlayground, Elixir, Empowerchain, Fortytwo, Gaia, Gensyn, Gitopia, Gno.land, Grass, Hemi, Heisenberg Network, Newrl, İnitia, İnit, İmpossible, İronfish, Kiichain, Koii, Kyve, Lumoz, Liteseed, Lumera, Massa, Meson Network, Minima, Manta, Madara, Mangata, Mantra, Multiple, Multisync, Nebulai, Nesa, Nexus,  Nubit, Nulink, Nibiru, Nillion, Namada, Network 3, 0g, Oro, Ora, Over, Ojo, Okp4, Pryzm, Pactus, Pell, Pipe, Pingpong, Privia, Rainbow, Republic, Rivalz, Risc Zero, Safrochain, Selfchain, Seismic, Sonaric, Soundness, Shardeum, Octra, QBlokchain, Quicksilver, Safrochain, Sei network, Santiment, Subspace, Sui network, Tac, T3rn, Tangle, Tanssi, Titan Network, Vana, Vanasix, Viper, Voi, Zeeka, Zenrock, Warden.
 
 
 
