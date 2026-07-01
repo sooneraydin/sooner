@@ -12,18 +12,15 @@ Telegram: https://t.me/SooNeR52
 Github: https://github.com/sooneraydin
 
 My Server:
-> Contabo, Hetzner, Google Cloud, Kamatera, Digital Ocean, Local Service Provider: Poyraz Hosting, Aws
+> Contabo, Hetzner, Serverica, Mevspace, Google Cloud, Kamatera, Digital Ocean, Local Service Provider: Poyraz Hosting, Aws
 
 Validator mainnet:
 
 > MASSA Chain,
 > Humanode,
 > Pactus,
-> Tangle,
 > Voi,
-> Elixir,
 > Dymension,
-> Flock,
 > Over Protocol,
 > Ario,
 > Dill,
@@ -31,9 +28,8 @@ Validator mainnet:
 > İni,
 > BitBadges
 > Lumera-Network
-> Pipe
 > Atomone
-> 
+> Safrochain
 
 
 Validator testnet:
